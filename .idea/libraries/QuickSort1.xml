@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="QuickSort">
+  <library name="QuickSort1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/QuickSort.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lib/QuickSort.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
